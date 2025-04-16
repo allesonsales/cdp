@@ -1,7 +1,12 @@
 [
   {
-    "data": "01/05/2025",
-    "nome": "Corrida VGP"
+   "data": "01/05/2025",
+    "titulo": "Corrida VGP",
+    "horario": "8h",
+    "pontoEncontro": "Posto de Cotia",
+    "quilometragem": 15,
+    "nivel": "Intermediário",
+    "lista": ["Alleson", "Alan"]
   },
   {
     "data": "08/05/2025",
